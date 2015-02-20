@@ -4,7 +4,7 @@
 xstrings - print the strings of encoded printable characters in files.
 inspired by 'xorsearch' by didier stevens, http://blog.didierstevens.com/programs/xorsearch
 
-@author Eli Cohen-Nehemia
+@author Eli Cohen-Nehemia, https://github.com/elicn/xstrings
 '''
 
 import re
